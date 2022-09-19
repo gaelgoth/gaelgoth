@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **gael@gothuey.dev**
 
-### Blogs posts
+### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yup, an other blog](https://blog.gothuey.dev/2022/yup-an-other-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
