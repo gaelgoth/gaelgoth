@@ -15,6 +15,7 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swiss deals API](https://blog.gothuey.dev/2022/swiss-deals-api)
 - [Yup, an other blog](https://blog.gothuey.dev/2022/yup-an-other-blog)
 <!-- BLOG-POST-LIST:END -->
 
