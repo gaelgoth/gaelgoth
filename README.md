@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaël</h1>
 <h3 align="center">Tech enthusiast & DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [Swiss deals API](https://github.com/gaelgoth/swiss-deals-api)
-
 - 🌱 I’m currently learning **Azure, AWS and react**
-
-- 👨‍💻 All of my projects are available at [http://gothuey.dev/](http://gothuey.dev/)
 
 - 📝 I regularly write articles on [http://gothuey.dev/](http://gothuey.dev/)
 
