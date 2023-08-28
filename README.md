@@ -11,10 +11,10 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use DNS and TLS in your homelab](https://blog.gothuey.dev/2023/dns-setup-homelab)
 - [Vaporflow Start page](https://blog.gothuey.dev/2023/vaporflow-startpage)
 - [Give a second life to my 2011 Mac mini](https://blog.gothuey.dev/2023/mac-mini-as-homeserver)
 - [Swiss deals API](https://blog.gothuey.dev/2022/swiss-deals-api)
-- [Yup, an other blog](https://blog.gothuey.dev/2022/yup-an-other-blog)
 <!-- BLOG-POST-LIST:END -->
 
 
