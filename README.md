@@ -6,8 +6,8 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keeping my NixOS fresh](https://blog.gothuey.dev/2025/nixos-auto-upgrade)
 - [Platform Engineering: Building a portal for Developers with Backstage](https://blog.gothuey.dev/2024/backstage-medium-post)
 - [How to use DNS and TLS in your homelab](https://blog.gothuey.dev/2023/dns-setup-homelab)
 - [Vaporflow Start page](https://blog.gothuey.dev/2023/vaporflow-startpage)
-- [Give a second life to my 2011 Mac mini](https://blog.gothuey.dev/2023/mac-mini-as-homeserver)
 <!-- BLOG-POST-LIST:END -->
